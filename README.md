@@ -17,4 +17,3 @@ Data science virtual internship programme by British Airways through Forage!
 - preparing a powerpoint representation to highlight our insights and analysis
 
 
-**Completion Certificate link** : [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completioncertificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_LKYT8WHaEwfeuawfw_1693723769091_completion_certificate.pdf)
